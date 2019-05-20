@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## HELLO 王娇
 
-You can use the [editor on GitHub](https://github.com/lovedomain/lovedomain.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+一只死狗即将访问wangjiao.love
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -30,7 +30,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lovedomain/lovedomain.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lovedomain/
+/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
