@@ -2,8 +2,7 @@
 
 一只死狗即将访问wangjiao.love
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+##咱也不敢说，咱也不敢问，520得有点啥表示。咱就默默地写个网站。
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
