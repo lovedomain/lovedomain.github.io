@@ -1,4 +1,4 @@
-### HELLO 王娇
+### Hello 王娇
 
 ## This is wangjiao.love
 
